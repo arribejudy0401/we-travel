@@ -1,3 +1,3 @@
 # We Travel
 
-We Travel is a responsive travelling website that is developed using HTML, CSS and JavaScript.
+https://wetravel-philippines.netlify.app/ is a responsive travelling website that is developed using HTML, CSS and JavaScript.
